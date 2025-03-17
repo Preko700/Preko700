@@ -54,8 +54,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preko700/preko700/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/preko700/preko700/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Preko700/Preko-README/blob/45125a257d0e318586a147b3c76d2bdae8335181/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Preko700/Preko-README/blob/45125a257d0e318586a147b3c76d2bdae8335181/github-snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
