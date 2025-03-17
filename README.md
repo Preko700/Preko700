@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Preko700/Preko700/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Preko700/Preko700/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
