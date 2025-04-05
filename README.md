@@ -56,6 +56,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Preko700/Preko-README/blob/45125a257d0e318586a147b3c76d2bdae8335181/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Preko700/Preko-README/blob/45125a257d0e318586a147b3c76d2bdae8335181/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Preko700/Preko700/output/snake.svg" alt="Snake animation" />
 </picture>
 
