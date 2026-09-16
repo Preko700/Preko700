@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Preko700&theme=tokyonight&hide_border=true&border_radius=10" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Preko700&theme=tokyonight&hide_border=true&border_radius=10&v=2" alt="streak graph" />
 </div>
 
 <br/>
