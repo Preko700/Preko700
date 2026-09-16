@@ -19,7 +19,7 @@
 
 - 🎓 Estudiante de **Ingeniería en Computadores** en el **Instituto Tecnológico de Costa Rica (TEC)**, Campus Cartago
 - 🧑‍💼 **Vicepresidente de ASEIC** (Asociación de Estudiantes de Ingeniería en Computadores) 2026–2027
-- 💻 Me muevo entre **desarrollo full-stack, videojuegos y sistemas embebidos**
+- 💻 Me muevo entre **desarrollo full-stack y sistemas embebidos**
 - 📍 Cartago, Costa Rica
 
 <br/>
@@ -42,7 +42,7 @@
 
 **Herramientas & Diseño**
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,mysql" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,mysql" />
 
 </div>
 
