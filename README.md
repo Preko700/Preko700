@@ -57,17 +57,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preko700&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Preko700&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preko700&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Preko700&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&row=2" height="165" alt="trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preko700&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph"/>
+  <img src="https://streak-stats.demolab.com?user=Preko700&theme=tokyonight&hide_border=true&border_radius=10" alt="streak graph" />
 </div>
 
 <br/>
