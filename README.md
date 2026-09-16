@@ -20,9 +20,7 @@
 - 🎓 Estudiante de **Ingeniería en Computadores** en el **Instituto Tecnológico de Costa Rica (TEC)**, Campus Cartago
 - 🧑‍💼 **Vicepresidente de ASEIC** (Asociación de Estudiantes de Ingeniería en Computadores) 2026–2027
 - 💻 Me muevo entre **desarrollo full-stack, videojuegos y sistemas embebidos**
-- 🎨 También incursiono en **diseño de producto/UI en Figma**
 - 📍 Cartago, Costa Rica
-- ⚡ Dato curioso: he pasado de mover pixeles en Figma a mover electrones en un Raspberry Pi Pico
 
 <br/>
 
