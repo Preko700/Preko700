@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Adri%C3%A1n%20Monge%20Mairena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20Preko%20%7C%20Computer%20Engineering%20%40%20TEC&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=Estudiante+de+Ingenier%C3%ADa+en+Computadores+%40+TEC;Vicepresidente+de+ASEIC+2026-2027;Full-Stack+%26+Game+Developer;Explorando+dise%C3%B1o+UI+en+Figma" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <a href="https://linkedin.com/in/preko700"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
