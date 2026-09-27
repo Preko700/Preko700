@@ -14,6 +14,7 @@ Computer Engineering student at the **Instituto Tecnológico de Costa Rica (TEC)
 
 | Project | Engineering evidence | Stack |
 | --- | --- | --- |
+| [Edge Telemetry Lab](https://github.com/Preko700/edge-telemetry-lab) | Resilient async telemetry pipeline with backpressure, retry logic, anomaly detection, SQLite persistence, automated tests, and CI | Python, asyncio, SQLite, GitHub Actions |
 | [Pinball](https://github.com/Preko700/Pinball) | Physical pinball machine integrating custom circuitry, sensors, display animations, and audio | MicroPython, Raspberry Pi Pico W |
 | [GreenView](https://github.com/Preko700/GreenView) | IoT dashboard for sensor monitoring, device control, alerts, and data visualization | TypeScript, Next.js, Tailwind CSS, SQLite |
 | [Traffic Simulator](https://github.com/Preko700/Traffic-Simulator) | Graph-based routing with Dijkstra, blocked-road handling, vehicle simulation, and separated Core/UI layers | C#, .NET, WPF |
